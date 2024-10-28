@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Attendance_System" />
+        <module name="attendance_system-master" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="attendance_system-master" options="-extdirs &quot;F:\我的发货\01.SSM项目\19 基于SSM的考勤管理系统\项目源码\attendance_system-master/src/main/webapp/WEB-INF/lib&quot;" />
+    </option>
+  </component>
+</project>
